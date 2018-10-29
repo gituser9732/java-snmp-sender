@@ -1,10 +1,10 @@
 #
 #
 ##   This is a readme text file
-#
+##    Edited: 10:29:2018
 #
 #
 #
 !! Now adding two more lines
-!! Lines added
+updated lines
 
